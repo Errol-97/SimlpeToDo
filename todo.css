@@ -1,0 +1,13 @@
+body{
+    background-color: slategray;
+}
+
+.selected{
+    color: rgb(82, 105, 236);
+}
+
+.done{
+    text-decoration: line-through;
+    color: rgb(173, 173, 177);
+    opacity: .5;
+}
